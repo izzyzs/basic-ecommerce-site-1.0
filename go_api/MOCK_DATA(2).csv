@@ -1,0 +1,1001 @@
+id,name,description,price,product_type,quantity
+1,Glowing Beauty Elixir,Natural soy wax candle,98.64,moisturizer,5
+2,Youthful Essence Eye Cream,Organic cotton socks,95.87,moisturizer,5
+3,Soothing Body Lotion,Handcrafted wooden picture frame,8.44,eyeliner,7
+4,Revitalizing Hair Mask,Silk scarf with floral print,0.5,shampoo,6
+5,Nourishing Scalp Treatment,Bluetooth wireless earbuds,43.79,moisturizer,12
+6,Soothing Body Lotion,Silk scarf with floral print,7.29,shampoo,7
+7,Soothing Body Lotion,Vintage leather messenger bag,57.81,shampoo,5
+8,Glowing Beauty Elixir,Organic cotton socks,98.22,lipstick,11
+9,Soothing Body Lotion,Natural soy wax candle,51.8,perfume,1
+10,Revitalizing Hair Mask,Silk scarf with floral print,46.41,eyeliner,8
+11,Luminous Glow Serum,Silk scarf with floral print,19.04,perfume,1
+12,Silky Smooth Shampoo,Stainless steel water bottle,90.91,perfume,6
+13,Radiant Skin Cream,Handcrafted wooden picture frame,43.93,eyeliner,8
+14,Glowing Beauty Elixir,Soft cotton t-shirt,8.94,moisturizer,9
+15,Soothing Body Lotion,Leather wallet with RFID protection,54.72,perfume,2
+16,Nourishing Scalp Treatment,Organic cotton socks,5.94,moisturizer,4
+17,Radiant Skin Cream,Stainless steel water bottle,62.7,eyeliner,6
+18,Radiant Skin Cream,Silk scarf with floral print,0.32,moisturizer,6
+19,Radiant Skin Cream,Bluetooth wireless earbuds,0.08,eyeliner,9
+20,Radiant Skin Cream,Organic cotton socks,9.34,eyeliner,10
+21,Revitalizing Hair Mask,Natural soy wax candle,57.87,lipstick,3
+22,Luminous Glow Serum,Handcrafted wooden picture frame,80.73,eyeliner,7
+23,Radiant Skin Cream,Silk scarf with floral print,13.29,moisturizer,3
+24,Luminous Glow Serum,Silk scarf with floral print,81.86,moisturizer,8
+25,Youthful Essence Eye Cream,Organic cotton socks,17.14,lipstick,11
+26,Revitalizing Hair Mask,Organic cotton socks,23.23,lipstick,11
+27,Youthful Essence Eye Cream,Natural soy wax candle,1.14,shampoo,11
+28,Soothing Body Lotion,Bluetooth wireless earbuds,91.94,lipstick,1
+29,Brightening Facial Cleanser,Soft cotton t-shirt,12.76,perfume,1
+30,Brightening Facial Cleanser,Stainless steel water bottle,80.03,eyeliner,6
+31,Brightening Facial Cleanser,Bluetooth wireless earbuds,91.51,shampoo,12
+32,Radiant Skin Cream,Soft cotton t-shirt,43.36,shampoo,2
+33,Glowing Beauty Elixir,Natural soy wax candle,27.94,shampoo,6
+34,Luminous Glow Serum,Vintage leather messenger bag,42.43,lipstick,10
+35,Radiant Skin Cream,Vintage leather messenger bag,5.52,shampoo,7
+36,Glowing Beauty Elixir,Organic cotton socks,23.56,eyeliner,1
+37,Glowing Beauty Elixir,Stainless steel water bottle,23.53,perfume,4
+38,Glowing Beauty Elixir,Vintage leather messenger bag,68.35,moisturizer,9
+39,Soothing Body Lotion,Vintage leather messenger bag,93.77,lipstick,2
+40,Soothing Body Lotion,Bluetooth wireless earbuds,53.67,lipstick,6
+41,Revitalizing Hair Mask,Soft cotton t-shirt,17.31,perfume,11
+42,Soothing Body Lotion,Glass water pitcher with lid,81.68,shampoo,6
+43,Hydrating Lip Balm,Natural soy wax candle,92.27,lipstick,2
+44,Soothing Body Lotion,Natural soy wax candle,1.64,shampoo,7
+45,Radiant Skin Cream,Natural soy wax candle,55.55,lipstick,12
+46,Silky Smooth Shampoo,Leather wallet with RFID protection,63.07,lipstick,10
+47,Revitalizing Hair Mask,Organic cotton socks,80.09,lipstick,7
+48,Youthful Essence Eye Cream,Handcrafted wooden picture frame,32.94,perfume,6
+49,Soothing Body Lotion,Stainless steel water bottle,23.51,moisturizer,10
+50,Soothing Body Lotion,Vintage leather messenger bag,69.0,eyeliner,10
+51,Brightening Facial Cleanser,Stainless steel water bottle,60.96,eyeliner,12
+52,Luminous Glow Serum,Vintage leather messenger bag,9.2,shampoo,10
+53,Revitalizing Hair Mask,Bluetooth wireless earbuds,26.64,perfume,4
+54,Revitalizing Hair Mask,Organic cotton socks,90.74,perfume,11
+55,Soothing Body Lotion,Organic cotton socks,43.27,lipstick,12
+56,Soothing Body Lotion,Handcrafted wooden picture frame,73.18,perfume,8
+57,Luminous Glow Serum,Vintage leather messenger bag,16.68,eyeliner,3
+58,Brightening Facial Cleanser,Glass water pitcher with lid,60.28,moisturizer,2
+59,Hydrating Lip Balm,Bluetooth wireless earbuds,58.17,lipstick,2
+60,Luminous Glow Serum,Bluetooth wireless earbuds,23.26,shampoo,3
+61,Soothing Body Lotion,Stainless steel water bottle,96.17,shampoo,8
+62,Nourishing Scalp Treatment,Silk scarf with floral print,28.45,eyeliner,12
+63,Soothing Body Lotion,Handcrafted wooden picture frame,65.06,perfume,2
+64,Soothing Body Lotion,Stainless steel water bottle,87.96,shampoo,3
+65,Radiant Skin Cream,Soft cotton t-shirt,56.9,moisturizer,8
+66,Glowing Beauty Elixir,Silk scarf with floral print,18.57,eyeliner,5
+67,Glowing Beauty Elixir,Vintage leather messenger bag,21.14,shampoo,1
+68,Nourishing Scalp Treatment,Bluetooth wireless earbuds,1.44,lipstick,7
+69,Brightening Facial Cleanser,Bluetooth wireless earbuds,14.44,eyeliner,10
+70,Hydrating Lip Balm,Handcrafted wooden picture frame,9.32,eyeliner,9
+71,Soothing Body Lotion,Silk scarf with floral print,38.78,shampoo,7
+72,Nourishing Scalp Treatment,Handcrafted wooden picture frame,44.38,perfume,2
+73,Revitalizing Hair Mask,Handcrafted wooden picture frame,60.74,eyeliner,3
+74,Brightening Facial Cleanser,Stainless steel water bottle,59.52,shampoo,5
+75,Luminous Glow Serum,Silk scarf with floral print,97.49,perfume,7
+76,Nourishing Scalp Treatment,Leather wallet with RFID protection,99.36,moisturizer,12
+77,Youthful Essence Eye Cream,Handcrafted wooden picture frame,17.71,shampoo,3
+78,Nourishing Scalp Treatment,Vintage leather messenger bag,21.72,moisturizer,4
+79,Luminous Glow Serum,Glass water pitcher with lid,1.9,moisturizer,5
+80,Youthful Essence Eye Cream,Vintage leather messenger bag,42.74,eyeliner,6
+81,Youthful Essence Eye Cream,Stainless steel water bottle,99.27,moisturizer,6
+82,Youthful Essence Eye Cream,Natural soy wax candle,11.95,shampoo,3
+83,Soothing Body Lotion,Handcrafted wooden picture frame,50.57,shampoo,11
+84,Silky Smooth Shampoo,Bluetooth wireless earbuds,71.75,moisturizer,4
+85,Hydrating Lip Balm,Organic cotton socks,84.69,perfume,11
+86,Youthful Essence Eye Cream,Organic cotton socks,94.0,moisturizer,7
+87,Nourishing Scalp Treatment,Organic cotton socks,95.54,perfume,6
+88,Luminous Glow Serum,Handcrafted wooden picture frame,43.63,perfume,9
+89,Brightening Facial Cleanser,Handcrafted wooden picture frame,77.78,moisturizer,7
+90,Youthful Essence Eye Cream,Vintage leather messenger bag,90.42,perfume,1
+91,Revitalizing Hair Mask,Natural soy wax candle,32.49,moisturizer,3
+92,Silky Smooth Shampoo,Vintage leather messenger bag,51.95,perfume,10
+93,Youthful Essence Eye Cream,Leather wallet with RFID protection,98.88,moisturizer,7
+94,Soothing Body Lotion,Leather wallet with RFID protection,37.5,eyeliner,5
+95,Luminous Glow Serum,Glass water pitcher with lid,23.45,eyeliner,4
+96,Revitalizing Hair Mask,Leather wallet with RFID protection,63.15,moisturizer,6
+97,Brightening Facial Cleanser,Silk scarf with floral print,35.32,moisturizer,2
+98,Radiant Skin Cream,Natural soy wax candle,10.11,lipstick,5
+99,Brightening Facial Cleanser,Handcrafted wooden picture frame,42.75,moisturizer,11
+100,Radiant Skin Cream,Leather wallet with RFID protection,71.16,lipstick,3
+101,Hydrating Lip Balm,Glass water pitcher with lid,6.49,shampoo,5
+102,Revitalizing Hair Mask,Bluetooth wireless earbuds,77.91,eyeliner,11
+103,Youthful Essence Eye Cream,Bluetooth wireless earbuds,50.57,lipstick,4
+104,Brightening Facial Cleanser,Leather wallet with RFID protection,73.82,perfume,4
+105,Soothing Body Lotion,Leather wallet with RFID protection,24.25,eyeliner,3
+106,Radiant Skin Cream,Vintage leather messenger bag,62.29,lipstick,1
+107,Glowing Beauty Elixir,Stainless steel water bottle,4.85,lipstick,6
+108,Revitalizing Hair Mask,Organic cotton socks,95.66,moisturizer,4
+109,Brightening Facial Cleanser,Leather wallet with RFID protection,46.74,moisturizer,9
+110,Radiant Skin Cream,Leather wallet with RFID protection,10.57,lipstick,9
+111,Luminous Glow Serum,Organic cotton socks,96.03,perfume,7
+112,Glowing Beauty Elixir,Leather wallet with RFID protection,21.15,moisturizer,12
+113,Soothing Body Lotion,Glass water pitcher with lid,62.96,lipstick,12
+114,Radiant Skin Cream,Organic cotton socks,9.34,lipstick,9
+115,Brightening Facial Cleanser,Organic cotton socks,84.37,shampoo,1
+116,Glowing Beauty Elixir,Stainless steel water bottle,11.28,lipstick,11
+117,Brightening Facial Cleanser,Handcrafted wooden picture frame,75.25,shampoo,1
+118,Luminous Glow Serum,Stainless steel water bottle,85.91,shampoo,9
+119,Soothing Body Lotion,Stainless steel water bottle,62.9,perfume,11
+120,Revitalizing Hair Mask,Vintage leather messenger bag,3.57,perfume,9
+121,Silky Smooth Shampoo,Stainless steel water bottle,81.59,eyeliner,4
+122,Luminous Glow Serum,Leather wallet with RFID protection,34.54,lipstick,7
+123,Nourishing Scalp Treatment,Soft cotton t-shirt,7.1,moisturizer,7
+124,Hydrating Lip Balm,Natural soy wax candle,43.57,perfume,11
+125,Luminous Glow Serum,Bluetooth wireless earbuds,49.2,shampoo,10
+126,Glowing Beauty Elixir,Silk scarf with floral print,32.38,perfume,4
+127,Soothing Body Lotion,Stainless steel water bottle,6.28,perfume,11
+128,Hydrating Lip Balm,Organic cotton socks,72.85,perfume,1
+129,Nourishing Scalp Treatment,Handcrafted wooden picture frame,97.66,perfume,1
+130,Silky Smooth Shampoo,Soft cotton t-shirt,73.87,moisturizer,4
+131,Luminous Glow Serum,Handcrafted wooden picture frame,69.86,shampoo,9
+132,Nourishing Scalp Treatment,Soft cotton t-shirt,99.75,lipstick,6
+133,Soothing Body Lotion,Silk scarf with floral print,22.34,perfume,10
+134,Silky Smooth Shampoo,Glass water pitcher with lid,12.28,perfume,11
+135,Nourishing Scalp Treatment,Bluetooth wireless earbuds,68.96,eyeliner,6
+136,Hydrating Lip Balm,Bluetooth wireless earbuds,16.5,moisturizer,12
+137,Revitalizing Hair Mask,Glass water pitcher with lid,95.62,perfume,1
+138,Silky Smooth Shampoo,Bluetooth wireless earbuds,60.2,perfume,11
+139,Radiant Skin Cream,Silk scarf with floral print,23.2,moisturizer,11
+140,Soothing Body Lotion,Silk scarf with floral print,11.81,shampoo,11
+141,Brightening Facial Cleanser,Vintage leather messenger bag,86.4,perfume,8
+142,Nourishing Scalp Treatment,Vintage leather messenger bag,59.89,moisturizer,1
+143,Luminous Glow Serum,Handcrafted wooden picture frame,72.42,perfume,10
+144,Glowing Beauty Elixir,Leather wallet with RFID protection,14.15,eyeliner,8
+145,Soothing Body Lotion,Silk scarf with floral print,7.28,lipstick,1
+146,Nourishing Scalp Treatment,Stainless steel water bottle,34.12,perfume,1
+147,Nourishing Scalp Treatment,Handcrafted wooden picture frame,66.92,moisturizer,3
+148,Revitalizing Hair Mask,Glass water pitcher with lid,14.71,eyeliner,8
+149,Glowing Beauty Elixir,Glass water pitcher with lid,10.05,shampoo,2
+150,Glowing Beauty Elixir,Vintage leather messenger bag,72.58,lipstick,4
+151,Brightening Facial Cleanser,Soft cotton t-shirt,32.13,shampoo,8
+152,Brightening Facial Cleanser,Handcrafted wooden picture frame,98.2,lipstick,8
+153,Luminous Glow Serum,Natural soy wax candle,6.91,shampoo,1
+154,Glowing Beauty Elixir,Natural soy wax candle,70.09,moisturizer,4
+155,Radiant Skin Cream,Glass water pitcher with lid,25.04,eyeliner,7
+156,Revitalizing Hair Mask,Bluetooth wireless earbuds,48.75,perfume,3
+157,Radiant Skin Cream,Silk scarf with floral print,77.03,perfume,4
+158,Hydrating Lip Balm,Stainless steel water bottle,56.45,shampoo,6
+159,Revitalizing Hair Mask,Silk scarf with floral print,93.36,eyeliner,6
+160,Soothing Body Lotion,Soft cotton t-shirt,65.88,shampoo,1
+161,Hydrating Lip Balm,Organic cotton socks,53.81,eyeliner,11
+162,Radiant Skin Cream,Glass water pitcher with lid,13.38,moisturizer,6
+163,Youthful Essence Eye Cream,Handcrafted wooden picture frame,71.14,moisturizer,1
+164,Luminous Glow Serum,Leather wallet with RFID protection,53.77,lipstick,3
+165,Radiant Skin Cream,Vintage leather messenger bag,13.04,moisturizer,4
+166,Revitalizing Hair Mask,Handcrafted wooden picture frame,21.08,moisturizer,11
+167,Silky Smooth Shampoo,Silk scarf with floral print,49.11,eyeliner,1
+168,Hydrating Lip Balm,Glass water pitcher with lid,86.55,lipstick,10
+169,Nourishing Scalp Treatment,Bluetooth wireless earbuds,38.8,shampoo,3
+170,Luminous Glow Serum,Organic cotton socks,46.31,moisturizer,6
+171,Soothing Body Lotion,Natural soy wax candle,65.23,perfume,3
+172,Luminous Glow Serum,Bluetooth wireless earbuds,6.42,perfume,8
+173,Hydrating Lip Balm,Stainless steel water bottle,34.21,moisturizer,8
+174,Youthful Essence Eye Cream,Soft cotton t-shirt,35.18,lipstick,1
+175,Revitalizing Hair Mask,Vintage leather messenger bag,62.55,lipstick,11
+176,Revitalizing Hair Mask,Organic cotton socks,76.43,eyeliner,3
+177,Soothing Body Lotion,Organic cotton socks,7.02,lipstick,6
+178,Youthful Essence Eye Cream,Natural soy wax candle,15.38,lipstick,10
+179,Revitalizing Hair Mask,Stainless steel water bottle,15.92,shampoo,10
+180,Hydrating Lip Balm,Glass water pitcher with lid,3.07,lipstick,9
+181,Youthful Essence Eye Cream,Leather wallet with RFID protection,71.59,moisturizer,10
+182,Youthful Essence Eye Cream,Glass water pitcher with lid,52.54,eyeliner,3
+183,Revitalizing Hair Mask,Organic cotton socks,66.69,perfume,8
+184,Silky Smooth Shampoo,Natural soy wax candle,25.54,moisturizer,12
+185,Silky Smooth Shampoo,Organic cotton socks,37.7,eyeliner,8
+186,Silky Smooth Shampoo,Bluetooth wireless earbuds,10.97,shampoo,11
+187,Luminous Glow Serum,Soft cotton t-shirt,46.39,lipstick,9
+188,Youthful Essence Eye Cream,Natural soy wax candle,34.42,lipstick,3
+189,Silky Smooth Shampoo,Handcrafted wooden picture frame,51.64,perfume,9
+190,Youthful Essence Eye Cream,Organic cotton socks,10.41,perfume,8
+191,Radiant Skin Cream,Soft cotton t-shirt,52.73,eyeliner,5
+192,Hydrating Lip Balm,Silk scarf with floral print,86.52,perfume,1
+193,Glowing Beauty Elixir,Organic cotton socks,7.98,shampoo,3
+194,Nourishing Scalp Treatment,Soft cotton t-shirt,46.22,shampoo,2
+195,Nourishing Scalp Treatment,Organic cotton socks,84.9,lipstick,5
+196,Revitalizing Hair Mask,Handcrafted wooden picture frame,41.05,perfume,9
+197,Silky Smooth Shampoo,Stainless steel water bottle,1.5,shampoo,3
+198,Glowing Beauty Elixir,Silk scarf with floral print,7.06,perfume,4
+199,Youthful Essence Eye Cream,Silk scarf with floral print,19.26,lipstick,12
+200,Youthful Essence Eye Cream,Soft cotton t-shirt,72.59,eyeliner,10
+201,Revitalizing Hair Mask,Natural soy wax candle,86.36,perfume,4
+202,Radiant Skin Cream,Organic cotton socks,5.98,lipstick,2
+203,Luminous Glow Serum,Glass water pitcher with lid,88.49,moisturizer,11
+204,Radiant Skin Cream,Silk scarf with floral print,64.53,shampoo,6
+205,Radiant Skin Cream,Bluetooth wireless earbuds,99.52,shampoo,7
+206,Brightening Facial Cleanser,Leather wallet with RFID protection,26.3,lipstick,2
+207,Glowing Beauty Elixir,Stainless steel water bottle,44.62,perfume,1
+208,Silky Smooth Shampoo,Bluetooth wireless earbuds,35.47,moisturizer,12
+209,Glowing Beauty Elixir,Organic cotton socks,1.76,eyeliner,2
+210,Luminous Glow Serum,Soft cotton t-shirt,64.59,moisturizer,11
+211,Nourishing Scalp Treatment,Bluetooth wireless earbuds,23.59,eyeliner,10
+212,Radiant Skin Cream,Glass water pitcher with lid,67.66,lipstick,4
+213,Radiant Skin Cream,Bluetooth wireless earbuds,25.71,shampoo,1
+214,Glowing Beauty Elixir,Bluetooth wireless earbuds,20.46,perfume,4
+215,Luminous Glow Serum,Handcrafted wooden picture frame,85.39,shampoo,9
+216,Brightening Facial Cleanser,Leather wallet with RFID protection,33.25,lipstick,12
+217,Nourishing Scalp Treatment,Bluetooth wireless earbuds,73.22,shampoo,7
+218,Radiant Skin Cream,Natural soy wax candle,26.61,lipstick,7
+219,Soothing Body Lotion,Leather wallet with RFID protection,8.37,shampoo,1
+220,Revitalizing Hair Mask,Leather wallet with RFID protection,10.67,moisturizer,1
+221,Nourishing Scalp Treatment,Leather wallet with RFID protection,33.03,moisturizer,5
+222,Soothing Body Lotion,Handcrafted wooden picture frame,40.81,perfume,8
+223,Youthful Essence Eye Cream,Handcrafted wooden picture frame,39.17,shampoo,2
+224,Luminous Glow Serum,Organic cotton socks,18.82,lipstick,2
+225,Brightening Facial Cleanser,Leather wallet with RFID protection,15.52,lipstick,9
+226,Soothing Body Lotion,Natural soy wax candle,79.89,moisturizer,4
+227,Radiant Skin Cream,Natural soy wax candle,84.16,eyeliner,6
+228,Silky Smooth Shampoo,Glass water pitcher with lid,21.84,shampoo,11
+229,Nourishing Scalp Treatment,Leather wallet with RFID protection,42.07,perfume,8
+230,Brightening Facial Cleanser,Silk scarf with floral print,23.81,eyeliner,5
+231,Youthful Essence Eye Cream,Leather wallet with RFID protection,96.58,moisturizer,12
+232,Revitalizing Hair Mask,Natural soy wax candle,81.39,shampoo,2
+233,Soothing Body Lotion,Stainless steel water bottle,65.17,eyeliner,1
+234,Nourishing Scalp Treatment,Silk scarf with floral print,22.34,eyeliner,4
+235,Silky Smooth Shampoo,Silk scarf with floral print,41.65,moisturizer,10
+236,Youthful Essence Eye Cream,Handcrafted wooden picture frame,46.17,moisturizer,10
+237,Nourishing Scalp Treatment,Bluetooth wireless earbuds,6.98,lipstick,5
+238,Revitalizing Hair Mask,Soft cotton t-shirt,97.73,eyeliner,6
+239,Youthful Essence Eye Cream,Handcrafted wooden picture frame,84.7,shampoo,2
+240,Silky Smooth Shampoo,Organic cotton socks,31.38,moisturizer,2
+241,Youthful Essence Eye Cream,Vintage leather messenger bag,46.21,moisturizer,4
+242,Soothing Body Lotion,Glass water pitcher with lid,6.24,shampoo,9
+243,Silky Smooth Shampoo,Organic cotton socks,0.18,eyeliner,10
+244,Glowing Beauty Elixir,Natural soy wax candle,6.6,lipstick,9
+245,Brightening Facial Cleanser,Organic cotton socks,36.76,moisturizer,4
+246,Revitalizing Hair Mask,Organic cotton socks,87.18,lipstick,10
+247,Luminous Glow Serum,Stainless steel water bottle,20.84,shampoo,9
+248,Revitalizing Hair Mask,Bluetooth wireless earbuds,57.76,moisturizer,9
+249,Revitalizing Hair Mask,Leather wallet with RFID protection,6.61,eyeliner,11
+250,Soothing Body Lotion,Soft cotton t-shirt,94.9,perfume,3
+251,Hydrating Lip Balm,Natural soy wax candle,53.7,lipstick,3
+252,Brightening Facial Cleanser,Natural soy wax candle,57.59,lipstick,6
+253,Revitalizing Hair Mask,Silk scarf with floral print,26.6,perfume,7
+254,Luminous Glow Serum,Handcrafted wooden picture frame,12.33,lipstick,6
+255,Radiant Skin Cream,Glass water pitcher with lid,44.33,moisturizer,8
+256,Glowing Beauty Elixir,Natural soy wax candle,5.37,shampoo,7
+257,Silky Smooth Shampoo,Silk scarf with floral print,13.57,shampoo,5
+258,Silky Smooth Shampoo,Organic cotton socks,80.9,perfume,5
+259,Revitalizing Hair Mask,Glass water pitcher with lid,91.75,perfume,11
+260,Radiant Skin Cream,Handcrafted wooden picture frame,65.78,shampoo,4
+261,Silky Smooth Shampoo,Vintage leather messenger bag,66.19,shampoo,10
+262,Nourishing Scalp Treatment,Handcrafted wooden picture frame,68.93,perfume,11
+263,Radiant Skin Cream,Natural soy wax candle,32.04,lipstick,5
+264,Brightening Facial Cleanser,Soft cotton t-shirt,48.82,moisturizer,12
+265,Nourishing Scalp Treatment,Silk scarf with floral print,79.28,lipstick,3
+266,Radiant Skin Cream,Handcrafted wooden picture frame,55.78,shampoo,4
+267,Glowing Beauty Elixir,Natural soy wax candle,99.83,perfume,9
+268,Brightening Facial Cleanser,Natural soy wax candle,55.22,shampoo,4
+269,Luminous Glow Serum,Soft cotton t-shirt,11.0,perfume,2
+270,Luminous Glow Serum,Silk scarf with floral print,95.26,shampoo,7
+271,Luminous Glow Serum,Silk scarf with floral print,76.91,moisturizer,3
+272,Luminous Glow Serum,Soft cotton t-shirt,74.92,lipstick,1
+273,Silky Smooth Shampoo,Handcrafted wooden picture frame,12.62,perfume,3
+274,Radiant Skin Cream,Silk scarf with floral print,72.18,lipstick,7
+275,Brightening Facial Cleanser,Handcrafted wooden picture frame,18.31,moisturizer,9
+276,Nourishing Scalp Treatment,Leather wallet with RFID protection,71.7,moisturizer,4
+277,Glowing Beauty Elixir,Glass water pitcher with lid,2.63,perfume,8
+278,Hydrating Lip Balm,Vintage leather messenger bag,27.71,perfume,10
+279,Nourishing Scalp Treatment,Stainless steel water bottle,11.67,perfume,5
+280,Brightening Facial Cleanser,Natural soy wax candle,18.91,lipstick,3
+281,Revitalizing Hair Mask,Soft cotton t-shirt,93.66,moisturizer,4
+282,Revitalizing Hair Mask,Organic cotton socks,62.96,lipstick,2
+283,Nourishing Scalp Treatment,Leather wallet with RFID protection,26.43,lipstick,2
+284,Brightening Facial Cleanser,Soft cotton t-shirt,66.33,lipstick,6
+285,Glowing Beauty Elixir,Vintage leather messenger bag,27.37,eyeliner,4
+286,Revitalizing Hair Mask,Vintage leather messenger bag,67.18,eyeliner,4
+287,Youthful Essence Eye Cream,Soft cotton t-shirt,7.68,eyeliner,7
+288,Hydrating Lip Balm,Soft cotton t-shirt,64.72,shampoo,2
+289,Revitalizing Hair Mask,Stainless steel water bottle,98.01,moisturizer,7
+290,Brightening Facial Cleanser,Vintage leather messenger bag,38.53,moisturizer,7
+291,Luminous Glow Serum,Soft cotton t-shirt,11.46,lipstick,10
+292,Soothing Body Lotion,Glass water pitcher with lid,74.22,lipstick,12
+293,Silky Smooth Shampoo,Handcrafted wooden picture frame,5.21,moisturizer,3
+294,Hydrating Lip Balm,Silk scarf with floral print,87.71,perfume,6
+295,Youthful Essence Eye Cream,Vintage leather messenger bag,96.94,shampoo,6
+296,Radiant Skin Cream,Glass water pitcher with lid,82.77,moisturizer,10
+297,Nourishing Scalp Treatment,Handcrafted wooden picture frame,31.26,perfume,12
+298,Radiant Skin Cream,Organic cotton socks,35.82,shampoo,12
+299,Nourishing Scalp Treatment,Handcrafted wooden picture frame,88.5,lipstick,6
+300,Luminous Glow Serum,Leather wallet with RFID protection,48.88,perfume,12
+301,Soothing Body Lotion,Bluetooth wireless earbuds,11.61,lipstick,8
+302,Glowing Beauty Elixir,Soft cotton t-shirt,52.02,lipstick,7
+303,Radiant Skin Cream,Stainless steel water bottle,13.77,eyeliner,11
+304,Silky Smooth Shampoo,Glass water pitcher with lid,88.4,eyeliner,2
+305,Silky Smooth Shampoo,Organic cotton socks,82.4,lipstick,2
+306,Youthful Essence Eye Cream,Handcrafted wooden picture frame,28.38,moisturizer,6
+307,Youthful Essence Eye Cream,Glass water pitcher with lid,50.82,perfume,11
+308,Brightening Facial Cleanser,Natural soy wax candle,50.16,moisturizer,11
+309,Radiant Skin Cream,Silk scarf with floral print,93.6,perfume,3
+310,Luminous Glow Serum,Stainless steel water bottle,47.53,perfume,3
+311,Soothing Body Lotion,Handcrafted wooden picture frame,35.97,moisturizer,9
+312,Hydrating Lip Balm,Glass water pitcher with lid,13.23,lipstick,10
+313,Luminous Glow Serum,Silk scarf with floral print,49.91,shampoo,1
+314,Nourishing Scalp Treatment,Silk scarf with floral print,2.13,eyeliner,6
+315,Nourishing Scalp Treatment,Bluetooth wireless earbuds,63.22,eyeliner,2
+316,Youthful Essence Eye Cream,Organic cotton socks,18.57,moisturizer,12
+317,Luminous Glow Serum,Bluetooth wireless earbuds,19.65,moisturizer,9
+318,Soothing Body Lotion,Bluetooth wireless earbuds,50.34,moisturizer,9
+319,Youthful Essence Eye Cream,Organic cotton socks,60.87,lipstick,11
+320,Nourishing Scalp Treatment,Soft cotton t-shirt,35.06,lipstick,8
+321,Soothing Body Lotion,Leather wallet with RFID protection,46.7,moisturizer,8
+322,Hydrating Lip Balm,Organic cotton socks,71.27,eyeliner,8
+323,Glowing Beauty Elixir,Natural soy wax candle,81.38,lipstick,1
+324,Glowing Beauty Elixir,Organic cotton socks,26.72,eyeliner,1
+325,Luminous Glow Serum,Stainless steel water bottle,26.33,shampoo,1
+326,Luminous Glow Serum,Glass water pitcher with lid,29.17,perfume,6
+327,Silky Smooth Shampoo,Organic cotton socks,38.09,lipstick,3
+328,Soothing Body Lotion,Leather wallet with RFID protection,21.08,eyeliner,8
+329,Silky Smooth Shampoo,Glass water pitcher with lid,13.22,lipstick,4
+330,Soothing Body Lotion,Organic cotton socks,62.55,shampoo,9
+331,Silky Smooth Shampoo,Organic cotton socks,80.53,perfume,9
+332,Luminous Glow Serum,Stainless steel water bottle,80.54,moisturizer,12
+333,Radiant Skin Cream,Leather wallet with RFID protection,95.03,shampoo,8
+334,Revitalizing Hair Mask,Soft cotton t-shirt,20.15,shampoo,2
+335,Hydrating Lip Balm,Organic cotton socks,2.64,shampoo,8
+336,Youthful Essence Eye Cream,Stainless steel water bottle,29.35,moisturizer,3
+337,Brightening Facial Cleanser,Stainless steel water bottle,89.74,lipstick,2
+338,Nourishing Scalp Treatment,Vintage leather messenger bag,84.54,eyeliner,12
+339,Soothing Body Lotion,Natural soy wax candle,35.49,shampoo,8
+340,Radiant Skin Cream,Handcrafted wooden picture frame,19.06,perfume,6
+341,Hydrating Lip Balm,Organic cotton socks,85.56,eyeliner,11
+342,Brightening Facial Cleanser,Leather wallet with RFID protection,66.9,perfume,1
+343,Soothing Body Lotion,Vintage leather messenger bag,26.53,moisturizer,10
+344,Youthful Essence Eye Cream,Organic cotton socks,70.27,moisturizer,9
+345,Glowing Beauty Elixir,Stainless steel water bottle,6.36,eyeliner,11
+346,Revitalizing Hair Mask,Organic cotton socks,33.86,perfume,4
+347,Revitalizing Hair Mask,Bluetooth wireless earbuds,7.82,eyeliner,11
+348,Luminous Glow Serum,Glass water pitcher with lid,44.43,moisturizer,5
+349,Radiant Skin Cream,Handcrafted wooden picture frame,55.8,eyeliner,8
+350,Luminous Glow Serum,Soft cotton t-shirt,33.97,shampoo,2
+351,Revitalizing Hair Mask,Natural soy wax candle,22.4,moisturizer,11
+352,Hydrating Lip Balm,Natural soy wax candle,60.83,lipstick,3
+353,Nourishing Scalp Treatment,Vintage leather messenger bag,64.14,shampoo,8
+354,Soothing Body Lotion,Natural soy wax candle,15.86,shampoo,6
+355,Radiant Skin Cream,Organic cotton socks,41.06,eyeliner,2
+356,Brightening Facial Cleanser,Organic cotton socks,52.43,perfume,3
+357,Glowing Beauty Elixir,Soft cotton t-shirt,18.09,shampoo,4
+358,Revitalizing Hair Mask,Soft cotton t-shirt,99.51,perfume,8
+359,Nourishing Scalp Treatment,Natural soy wax candle,25.55,perfume,9
+360,Silky Smooth Shampoo,Bluetooth wireless earbuds,46.74,moisturizer,11
+361,Soothing Body Lotion,Silk scarf with floral print,27.12,perfume,3
+362,Silky Smooth Shampoo,Natural soy wax candle,49.94,eyeliner,9
+363,Silky Smooth Shampoo,Stainless steel water bottle,88.84,eyeliner,8
+364,Soothing Body Lotion,Leather wallet with RFID protection,83.94,perfume,8
+365,Revitalizing Hair Mask,Silk scarf with floral print,32.82,shampoo,5
+366,Youthful Essence Eye Cream,Glass water pitcher with lid,11.71,eyeliner,12
+367,Glowing Beauty Elixir,Soft cotton t-shirt,9.42,lipstick,7
+368,Hydrating Lip Balm,Vintage leather messenger bag,2.25,eyeliner,8
+369,Silky Smooth Shampoo,Bluetooth wireless earbuds,5.83,moisturizer,7
+370,Glowing Beauty Elixir,Handcrafted wooden picture frame,77.75,lipstick,6
+371,Glowing Beauty Elixir,Vintage leather messenger bag,27.66,lipstick,5
+372,Radiant Skin Cream,Silk scarf with floral print,91.81,lipstick,3
+373,Revitalizing Hair Mask,Natural soy wax candle,10.28,lipstick,12
+374,Hydrating Lip Balm,Soft cotton t-shirt,57.98,lipstick,10
+375,Brightening Facial Cleanser,Organic cotton socks,3.78,moisturizer,6
+376,Luminous Glow Serum,Bluetooth wireless earbuds,88.06,eyeliner,5
+377,Luminous Glow Serum,Bluetooth wireless earbuds,96.35,moisturizer,9
+378,Hydrating Lip Balm,Bluetooth wireless earbuds,85.03,shampoo,7
+379,Revitalizing Hair Mask,Bluetooth wireless earbuds,62.25,shampoo,11
+380,Luminous Glow Serum,Vintage leather messenger bag,46.1,shampoo,2
+381,Youthful Essence Eye Cream,Glass water pitcher with lid,32.61,lipstick,7
+382,Radiant Skin Cream,Vintage leather messenger bag,42.88,shampoo,1
+383,Hydrating Lip Balm,Organic cotton socks,73.57,perfume,9
+384,Hydrating Lip Balm,Handcrafted wooden picture frame,67.42,lipstick,6
+385,Nourishing Scalp Treatment,Soft cotton t-shirt,10.22,moisturizer,11
+386,Revitalizing Hair Mask,Glass water pitcher with lid,91.07,shampoo,3
+387,Brightening Facial Cleanser,Vintage leather messenger bag,28.62,moisturizer,8
+388,Soothing Body Lotion,Stainless steel water bottle,29.65,lipstick,7
+389,Glowing Beauty Elixir,Organic cotton socks,8.66,moisturizer,10
+390,Hydrating Lip Balm,Glass water pitcher with lid,76.71,shampoo,2
+391,Soothing Body Lotion,Vintage leather messenger bag,14.66,perfume,12
+392,Brightening Facial Cleanser,Natural soy wax candle,34.89,lipstick,3
+393,Glowing Beauty Elixir,Soft cotton t-shirt,51.91,perfume,9
+394,Brightening Facial Cleanser,Natural soy wax candle,54.28,perfume,7
+395,Radiant Skin Cream,Bluetooth wireless earbuds,21.48,perfume,1
+396,Silky Smooth Shampoo,Vintage leather messenger bag,26.38,perfume,11
+397,Glowing Beauty Elixir,Glass water pitcher with lid,14.37,perfume,1
+398,Brightening Facial Cleanser,Natural soy wax candle,58.42,shampoo,4
+399,Radiant Skin Cream,Silk scarf with floral print,43.3,perfume,12
+400,Youthful Essence Eye Cream,Bluetooth wireless earbuds,22.98,perfume,6
+401,Youthful Essence Eye Cream,Stainless steel water bottle,97.98,perfume,9
+402,Luminous Glow Serum,Handcrafted wooden picture frame,20.37,perfume,2
+403,Hydrating Lip Balm,Leather wallet with RFID protection,99.66,eyeliner,9
+404,Revitalizing Hair Mask,Silk scarf with floral print,20.44,eyeliner,7
+405,Brightening Facial Cleanser,Leather wallet with RFID protection,32.6,lipstick,6
+406,Silky Smooth Shampoo,Bluetooth wireless earbuds,83.85,perfume,6
+407,Luminous Glow Serum,Bluetooth wireless earbuds,95.81,shampoo,2
+408,Silky Smooth Shampoo,Bluetooth wireless earbuds,14.0,shampoo,6
+409,Luminous Glow Serum,Natural soy wax candle,51.27,perfume,12
+410,Silky Smooth Shampoo,Vintage leather messenger bag,6.55,lipstick,11
+411,Glowing Beauty Elixir,Handcrafted wooden picture frame,40.48,lipstick,8
+412,Hydrating Lip Balm,Handcrafted wooden picture frame,86.31,moisturizer,11
+413,Hydrating Lip Balm,Leather wallet with RFID protection,49.67,perfume,11
+414,Luminous Glow Serum,Organic cotton socks,11.75,moisturizer,7
+415,Silky Smooth Shampoo,Stainless steel water bottle,79.78,eyeliner,2
+416,Luminous Glow Serum,Vintage leather messenger bag,90.56,lipstick,7
+417,Youthful Essence Eye Cream,Natural soy wax candle,47.86,shampoo,6
+418,Youthful Essence Eye Cream,Glass water pitcher with lid,89.46,perfume,12
+419,Revitalizing Hair Mask,Natural soy wax candle,76.38,shampoo,12
+420,Nourishing Scalp Treatment,Handcrafted wooden picture frame,54.08,lipstick,6
+421,Luminous Glow Serum,Silk scarf with floral print,5.21,eyeliner,10
+422,Silky Smooth Shampoo,Bluetooth wireless earbuds,20.47,lipstick,9
+423,Youthful Essence Eye Cream,Handcrafted wooden picture frame,59.86,shampoo,7
+424,Youthful Essence Eye Cream,Glass water pitcher with lid,69.1,perfume,12
+425,Silky Smooth Shampoo,Glass water pitcher with lid,73.15,eyeliner,11
+426,Radiant Skin Cream,Handcrafted wooden picture frame,39.5,moisturizer,6
+427,Luminous Glow Serum,Bluetooth wireless earbuds,76.87,eyeliner,10
+428,Brightening Facial Cleanser,Glass water pitcher with lid,73.73,perfume,10
+429,Glowing Beauty Elixir,Vintage leather messenger bag,33.51,perfume,12
+430,Brightening Facial Cleanser,Handcrafted wooden picture frame,99.24,lipstick,2
+431,Soothing Body Lotion,Natural soy wax candle,42.32,moisturizer,9
+432,Youthful Essence Eye Cream,Glass water pitcher with lid,81.96,moisturizer,3
+433,Revitalizing Hair Mask,Handcrafted wooden picture frame,19.63,shampoo,11
+434,Youthful Essence Eye Cream,Leather wallet with RFID protection,98.59,shampoo,1
+435,Revitalizing Hair Mask,Bluetooth wireless earbuds,12.43,eyeliner,1
+436,Luminous Glow Serum,Bluetooth wireless earbuds,77.8,perfume,8
+437,Hydrating Lip Balm,Bluetooth wireless earbuds,81.83,eyeliner,7
+438,Youthful Essence Eye Cream,Vintage leather messenger bag,80.2,perfume,7
+439,Silky Smooth Shampoo,Glass water pitcher with lid,33.92,shampoo,8
+440,Nourishing Scalp Treatment,Organic cotton socks,41.76,lipstick,11
+441,Brightening Facial Cleanser,Soft cotton t-shirt,63.05,shampoo,2
+442,Youthful Essence Eye Cream,Organic cotton socks,20.5,shampoo,3
+443,Silky Smooth Shampoo,Silk scarf with floral print,39.88,shampoo,10
+444,Youthful Essence Eye Cream,Glass water pitcher with lid,55.68,shampoo,9
+445,Nourishing Scalp Treatment,Bluetooth wireless earbuds,23.32,moisturizer,10
+446,Brightening Facial Cleanser,Soft cotton t-shirt,52.8,perfume,11
+447,Soothing Body Lotion,Glass water pitcher with lid,43.32,eyeliner,11
+448,Youthful Essence Eye Cream,Glass water pitcher with lid,17.8,eyeliner,3
+449,Nourishing Scalp Treatment,Bluetooth wireless earbuds,48.84,lipstick,11
+450,Nourishing Scalp Treatment,Soft cotton t-shirt,6.24,perfume,9
+451,Glowing Beauty Elixir,Handcrafted wooden picture frame,95.42,perfume,7
+452,Youthful Essence Eye Cream,Soft cotton t-shirt,82.0,shampoo,7
+453,Nourishing Scalp Treatment,Leather wallet with RFID protection,96.8,eyeliner,4
+454,Brightening Facial Cleanser,Stainless steel water bottle,42.51,lipstick,4
+455,Hydrating Lip Balm,Silk scarf with floral print,77.92,perfume,5
+456,Soothing Body Lotion,Vintage leather messenger bag,72.4,eyeliner,12
+457,Soothing Body Lotion,Vintage leather messenger bag,63.1,shampoo,4
+458,Luminous Glow Serum,Silk scarf with floral print,75.8,moisturizer,12
+459,Soothing Body Lotion,Vintage leather messenger bag,84.99,perfume,1
+460,Glowing Beauty Elixir,Natural soy wax candle,82.74,shampoo,8
+461,Soothing Body Lotion,Silk scarf with floral print,3.89,moisturizer,5
+462,Hydrating Lip Balm,Bluetooth wireless earbuds,89.36,perfume,5
+463,Nourishing Scalp Treatment,Glass water pitcher with lid,69.06,perfume,12
+464,Glowing Beauty Elixir,Bluetooth wireless earbuds,23.56,eyeliner,2
+465,Brightening Facial Cleanser,Glass water pitcher with lid,73.95,lipstick,8
+466,Luminous Glow Serum,Organic cotton socks,69.61,shampoo,10
+467,Hydrating Lip Balm,Soft cotton t-shirt,88.38,lipstick,7
+468,Radiant Skin Cream,Bluetooth wireless earbuds,6.67,eyeliner,6
+469,Nourishing Scalp Treatment,Handcrafted wooden picture frame,36.86,eyeliner,9
+470,Silky Smooth Shampoo,Stainless steel water bottle,64.24,shampoo,8
+471,Youthful Essence Eye Cream,Soft cotton t-shirt,43.13,eyeliner,11
+472,Glowing Beauty Elixir,Leather wallet with RFID protection,44.06,eyeliner,5
+473,Soothing Body Lotion,Bluetooth wireless earbuds,28.2,eyeliner,7
+474,Hydrating Lip Balm,Organic cotton socks,0.02,perfume,2
+475,Hydrating Lip Balm,Natural soy wax candle,48.48,perfume,1
+476,Luminous Glow Serum,Glass water pitcher with lid,15.87,eyeliner,6
+477,Silky Smooth Shampoo,Vintage leather messenger bag,84.9,shampoo,8
+478,Silky Smooth Shampoo,Leather wallet with RFID protection,89.82,perfume,11
+479,Nourishing Scalp Treatment,Silk scarf with floral print,40.22,eyeliner,5
+480,Nourishing Scalp Treatment,Handcrafted wooden picture frame,50.39,shampoo,6
+481,Glowing Beauty Elixir,Leather wallet with RFID protection,12.57,eyeliner,11
+482,Revitalizing Hair Mask,Organic cotton socks,6.84,shampoo,11
+483,Hydrating Lip Balm,Glass water pitcher with lid,0.9,eyeliner,4
+484,Brightening Facial Cleanser,Glass water pitcher with lid,95.18,eyeliner,5
+485,Soothing Body Lotion,Vintage leather messenger bag,26.73,eyeliner,11
+486,Brightening Facial Cleanser,Organic cotton socks,15.68,perfume,5
+487,Silky Smooth Shampoo,Silk scarf with floral print,48.18,lipstick,7
+488,Youthful Essence Eye Cream,Bluetooth wireless earbuds,23.76,moisturizer,11
+489,Silky Smooth Shampoo,Leather wallet with RFID protection,73.84,lipstick,2
+490,Radiant Skin Cream,Vintage leather messenger bag,80.1,moisturizer,9
+491,Hydrating Lip Balm,Handcrafted wooden picture frame,95.2,shampoo,7
+492,Silky Smooth Shampoo,Glass water pitcher with lid,30.62,lipstick,3
+493,Luminous Glow Serum,Leather wallet with RFID protection,74.37,shampoo,7
+494,Revitalizing Hair Mask,Soft cotton t-shirt,92.83,eyeliner,6
+495,Nourishing Scalp Treatment,Vintage leather messenger bag,57.71,perfume,10
+496,Silky Smooth Shampoo,Bluetooth wireless earbuds,17.33,moisturizer,6
+497,Radiant Skin Cream,Stainless steel water bottle,12.75,shampoo,9
+498,Radiant Skin Cream,Vintage leather messenger bag,71.23,lipstick,9
+499,Radiant Skin Cream,Organic cotton socks,24.4,moisturizer,6
+500,Brightening Facial Cleanser,Silk scarf with floral print,56.47,lipstick,3
+501,Soothing Body Lotion,Glass water pitcher with lid,53.32,eyeliner,2
+502,Nourishing Scalp Treatment,Natural soy wax candle,1.12,lipstick,8
+503,Revitalizing Hair Mask,Leather wallet with RFID protection,57.13,moisturizer,3
+504,Nourishing Scalp Treatment,Vintage leather messenger bag,49.9,perfume,9
+505,Radiant Skin Cream,Stainless steel water bottle,72.96,shampoo,3
+506,Radiant Skin Cream,Silk scarf with floral print,11.17,moisturizer,5
+507,Soothing Body Lotion,Glass water pitcher with lid,0.55,moisturizer,10
+508,Glowing Beauty Elixir,Silk scarf with floral print,33.91,eyeliner,3
+509,Luminous Glow Serum,Leather wallet with RFID protection,24.94,shampoo,1
+510,Nourishing Scalp Treatment,Glass water pitcher with lid,27.16,eyeliner,10
+511,Radiant Skin Cream,Natural soy wax candle,0.74,eyeliner,7
+512,Soothing Body Lotion,Silk scarf with floral print,67.23,lipstick,11
+513,Luminous Glow Serum,Silk scarf with floral print,23.5,lipstick,10
+514,Soothing Body Lotion,Handcrafted wooden picture frame,73.84,perfume,8
+515,Glowing Beauty Elixir,Bluetooth wireless earbuds,19.81,moisturizer,12
+516,Luminous Glow Serum,Organic cotton socks,5.1,eyeliner,2
+517,Revitalizing Hair Mask,Vintage leather messenger bag,59.78,perfume,12
+518,Nourishing Scalp Treatment,Soft cotton t-shirt,61.79,shampoo,10
+519,Silky Smooth Shampoo,Handcrafted wooden picture frame,54.0,eyeliner,5
+520,Luminous Glow Serum,Handcrafted wooden picture frame,22.78,shampoo,11
+521,Revitalizing Hair Mask,Bluetooth wireless earbuds,74.99,lipstick,4
+522,Silky Smooth Shampoo,Soft cotton t-shirt,30.57,eyeliner,9
+523,Hydrating Lip Balm,Leather wallet with RFID protection,69.42,moisturizer,11
+524,Youthful Essence Eye Cream,Soft cotton t-shirt,39.03,shampoo,7
+525,Nourishing Scalp Treatment,Organic cotton socks,35.7,perfume,2
+526,Soothing Body Lotion,Bluetooth wireless earbuds,36.63,shampoo,5
+527,Nourishing Scalp Treatment,Leather wallet with RFID protection,19.88,lipstick,8
+528,Revitalizing Hair Mask,Glass water pitcher with lid,87.68,eyeliner,5
+529,Youthful Essence Eye Cream,Vintage leather messenger bag,89.55,shampoo,2
+530,Brightening Facial Cleanser,Stainless steel water bottle,49.24,perfume,2
+531,Brightening Facial Cleanser,Glass water pitcher with lid,13.36,shampoo,5
+532,Hydrating Lip Balm,Handcrafted wooden picture frame,30.64,lipstick,9
+533,Radiant Skin Cream,Natural soy wax candle,8.67,lipstick,2
+534,Revitalizing Hair Mask,Leather wallet with RFID protection,81.8,eyeliner,1
+535,Nourishing Scalp Treatment,Organic cotton socks,1.56,perfume,7
+536,Luminous Glow Serum,Handcrafted wooden picture frame,38.79,perfume,6
+537,Glowing Beauty Elixir,Natural soy wax candle,57.27,eyeliner,12
+538,Hydrating Lip Balm,Vintage leather messenger bag,62.64,moisturizer,12
+539,Revitalizing Hair Mask,Leather wallet with RFID protection,49.45,shampoo,12
+540,Radiant Skin Cream,Bluetooth wireless earbuds,3.81,shampoo,4
+541,Radiant Skin Cream,Glass water pitcher with lid,59.53,perfume,8
+542,Silky Smooth Shampoo,Organic cotton socks,75.42,shampoo,7
+543,Youthful Essence Eye Cream,Stainless steel water bottle,45.21,lipstick,10
+544,Silky Smooth Shampoo,Soft cotton t-shirt,34.06,eyeliner,8
+545,Nourishing Scalp Treatment,Natural soy wax candle,12.44,eyeliner,8
+546,Brightening Facial Cleanser,Soft cotton t-shirt,96.97,perfume,6
+547,Glowing Beauty Elixir,Handcrafted wooden picture frame,21.98,shampoo,12
+548,Nourishing Scalp Treatment,Handcrafted wooden picture frame,67.61,perfume,6
+549,Silky Smooth Shampoo,Organic cotton socks,38.85,perfume,12
+550,Youthful Essence Eye Cream,Organic cotton socks,36.3,moisturizer,4
+551,Youthful Essence Eye Cream,Handcrafted wooden picture frame,63.61,lipstick,4
+552,Soothing Body Lotion,Soft cotton t-shirt,5.82,perfume,3
+553,Hydrating Lip Balm,Stainless steel water bottle,78.46,shampoo,8
+554,Soothing Body Lotion,Leather wallet with RFID protection,43.49,moisturizer,2
+555,Radiant Skin Cream,Bluetooth wireless earbuds,8.85,moisturizer,2
+556,Nourishing Scalp Treatment,Soft cotton t-shirt,5.87,lipstick,12
+557,Silky Smooth Shampoo,Organic cotton socks,93.25,eyeliner,2
+558,Youthful Essence Eye Cream,Natural soy wax candle,88.97,moisturizer,3
+559,Luminous Glow Serum,Soft cotton t-shirt,57.59,shampoo,7
+560,Glowing Beauty Elixir,Natural soy wax candle,95.35,lipstick,7
+561,Brightening Facial Cleanser,Vintage leather messenger bag,64.3,moisturizer,1
+562,Luminous Glow Serum,Vintage leather messenger bag,52.59,moisturizer,6
+563,Hydrating Lip Balm,Stainless steel water bottle,63.62,perfume,10
+564,Radiant Skin Cream,Natural soy wax candle,40.66,moisturizer,11
+565,Brightening Facial Cleanser,Stainless steel water bottle,53.09,shampoo,10
+566,Glowing Beauty Elixir,Silk scarf with floral print,97.36,shampoo,2
+567,Glowing Beauty Elixir,Bluetooth wireless earbuds,45.97,shampoo,8
+568,Nourishing Scalp Treatment,Glass water pitcher with lid,20.56,shampoo,8
+569,Hydrating Lip Balm,Silk scarf with floral print,98.52,eyeliner,1
+570,Youthful Essence Eye Cream,Bluetooth wireless earbuds,46.77,lipstick,8
+571,Hydrating Lip Balm,Handcrafted wooden picture frame,47.08,perfume,6
+572,Glowing Beauty Elixir,Stainless steel water bottle,56.35,perfume,8
+573,Radiant Skin Cream,Vintage leather messenger bag,10.12,shampoo,7
+574,Radiant Skin Cream,Bluetooth wireless earbuds,60.11,perfume,9
+575,Hydrating Lip Balm,Leather wallet with RFID protection,29.36,lipstick,11
+576,Nourishing Scalp Treatment,Leather wallet with RFID protection,67.21,perfume,8
+577,Luminous Glow Serum,Silk scarf with floral print,71.33,moisturizer,3
+578,Youthful Essence Eye Cream,Handcrafted wooden picture frame,71.48,moisturizer,4
+579,Brightening Facial Cleanser,Bluetooth wireless earbuds,69.17,moisturizer,5
+580,Silky Smooth Shampoo,Organic cotton socks,84.86,lipstick,10
+581,Nourishing Scalp Treatment,Natural soy wax candle,41.22,shampoo,10
+582,Youthful Essence Eye Cream,Soft cotton t-shirt,32.11,shampoo,12
+583,Glowing Beauty Elixir,Organic cotton socks,9.07,lipstick,2
+584,Luminous Glow Serum,Bluetooth wireless earbuds,58.5,perfume,7
+585,Silky Smooth Shampoo,Stainless steel water bottle,56.62,lipstick,10
+586,Silky Smooth Shampoo,Stainless steel water bottle,68.16,eyeliner,9
+587,Silky Smooth Shampoo,Natural soy wax candle,27.71,perfume,10
+588,Youthful Essence Eye Cream,Bluetooth wireless earbuds,49.49,lipstick,11
+589,Soothing Body Lotion,Silk scarf with floral print,33.48,moisturizer,12
+590,Silky Smooth Shampoo,Vintage leather messenger bag,74.11,shampoo,2
+591,Revitalizing Hair Mask,Glass water pitcher with lid,81.94,eyeliner,1
+592,Glowing Beauty Elixir,Silk scarf with floral print,69.35,perfume,1
+593,Youthful Essence Eye Cream,Natural soy wax candle,71.06,lipstick,12
+594,Radiant Skin Cream,Silk scarf with floral print,17.73,moisturizer,7
+595,Youthful Essence Eye Cream,Leather wallet with RFID protection,29.77,moisturizer,7
+596,Soothing Body Lotion,Stainless steel water bottle,82.76,lipstick,5
+597,Silky Smooth Shampoo,Leather wallet with RFID protection,94.22,shampoo,8
+598,Hydrating Lip Balm,Natural soy wax candle,43.72,lipstick,11
+599,Youthful Essence Eye Cream,Stainless steel water bottle,0.35,moisturizer,4
+600,Glowing Beauty Elixir,Glass water pitcher with lid,59.54,moisturizer,11
+601,Revitalizing Hair Mask,Vintage leather messenger bag,72.03,lipstick,12
+602,Soothing Body Lotion,Leather wallet with RFID protection,65.85,eyeliner,6
+603,Soothing Body Lotion,Bluetooth wireless earbuds,82.15,perfume,9
+604,Nourishing Scalp Treatment,Bluetooth wireless earbuds,90.66,moisturizer,6
+605,Glowing Beauty Elixir,Leather wallet with RFID protection,3.02,lipstick,7
+606,Brightening Facial Cleanser,Handcrafted wooden picture frame,48.07,lipstick,4
+607,Nourishing Scalp Treatment,Glass water pitcher with lid,43.04,perfume,11
+608,Youthful Essence Eye Cream,Leather wallet with RFID protection,73.6,lipstick,3
+609,Silky Smooth Shampoo,Natural soy wax candle,93.86,eyeliner,8
+610,Nourishing Scalp Treatment,Soft cotton t-shirt,42.87,lipstick,4
+611,Hydrating Lip Balm,Soft cotton t-shirt,12.9,shampoo,10
+612,Glowing Beauty Elixir,Vintage leather messenger bag,61.5,shampoo,1
+613,Radiant Skin Cream,Organic cotton socks,51.12,moisturizer,5
+614,Glowing Beauty Elixir,Silk scarf with floral print,1.23,perfume,9
+615,Hydrating Lip Balm,Natural soy wax candle,95.95,perfume,12
+616,Silky Smooth Shampoo,Glass water pitcher with lid,81.98,perfume,6
+617,Nourishing Scalp Treatment,Organic cotton socks,93.38,shampoo,8
+618,Radiant Skin Cream,Stainless steel water bottle,27.93,lipstick,3
+619,Luminous Glow Serum,Soft cotton t-shirt,17.9,lipstick,1
+620,Hydrating Lip Balm,Stainless steel water bottle,32.32,eyeliner,1
+621,Soothing Body Lotion,Bluetooth wireless earbuds,73.36,eyeliner,10
+622,Luminous Glow Serum,Stainless steel water bottle,97.57,perfume,9
+623,Soothing Body Lotion,Leather wallet with RFID protection,70.0,moisturizer,12
+624,Hydrating Lip Balm,Handcrafted wooden picture frame,15.96,eyeliner,7
+625,Hydrating Lip Balm,Handcrafted wooden picture frame,54.45,moisturizer,11
+626,Luminous Glow Serum,Handcrafted wooden picture frame,22.57,moisturizer,4
+627,Youthful Essence Eye Cream,Organic cotton socks,88.61,shampoo,3
+628,Silky Smooth Shampoo,Soft cotton t-shirt,75.9,moisturizer,9
+629,Soothing Body Lotion,Stainless steel water bottle,79.45,eyeliner,2
+630,Glowing Beauty Elixir,Soft cotton t-shirt,29.38,lipstick,8
+631,Glowing Beauty Elixir,Organic cotton socks,21.44,perfume,2
+632,Revitalizing Hair Mask,Organic cotton socks,59.3,eyeliner,2
+633,Nourishing Scalp Treatment,Natural soy wax candle,65.01,moisturizer,11
+634,Radiant Skin Cream,Vintage leather messenger bag,10.51,perfume,1
+635,Nourishing Scalp Treatment,Natural soy wax candle,26.72,lipstick,6
+636,Brightening Facial Cleanser,Soft cotton t-shirt,3.93,lipstick,2
+637,Hydrating Lip Balm,Soft cotton t-shirt,4.62,moisturizer,7
+638,Revitalizing Hair Mask,Soft cotton t-shirt,11.03,perfume,1
+639,Glowing Beauty Elixir,Glass water pitcher with lid,19.83,eyeliner,7
+640,Luminous Glow Serum,Glass water pitcher with lid,48.64,eyeliner,9
+641,Nourishing Scalp Treatment,Vintage leather messenger bag,58.22,perfume,5
+642,Silky Smooth Shampoo,Natural soy wax candle,69.42,moisturizer,2
+643,Glowing Beauty Elixir,Vintage leather messenger bag,95.73,eyeliner,2
+644,Luminous Glow Serum,Handcrafted wooden picture frame,89.22,perfume,5
+645,Brightening Facial Cleanser,Handcrafted wooden picture frame,7.36,moisturizer,11
+646,Radiant Skin Cream,Bluetooth wireless earbuds,38.39,shampoo,2
+647,Nourishing Scalp Treatment,Organic cotton socks,75.04,eyeliner,6
+648,Nourishing Scalp Treatment,Handcrafted wooden picture frame,17.61,shampoo,2
+649,Glowing Beauty Elixir,Natural soy wax candle,64.63,moisturizer,7
+650,Silky Smooth Shampoo,Stainless steel water bottle,6.96,lipstick,2
+651,Brightening Facial Cleanser,Soft cotton t-shirt,80.47,shampoo,3
+652,Revitalizing Hair Mask,Handcrafted wooden picture frame,43.36,perfume,2
+653,Radiant Skin Cream,Glass water pitcher with lid,65.65,lipstick,5
+654,Hydrating Lip Balm,Glass water pitcher with lid,49.25,shampoo,5
+655,Silky Smooth Shampoo,Natural soy wax candle,71.94,perfume,10
+656,Radiant Skin Cream,Stainless steel water bottle,85.21,eyeliner,10
+657,Luminous Glow Serum,Leather wallet with RFID protection,6.51,eyeliner,1
+658,Brightening Facial Cleanser,Stainless steel water bottle,13.26,perfume,7
+659,Silky Smooth Shampoo,Handcrafted wooden picture frame,39.37,shampoo,11
+660,Silky Smooth Shampoo,Glass water pitcher with lid,59.09,eyeliner,7
+661,Nourishing Scalp Treatment,Handcrafted wooden picture frame,6.94,perfume,11
+662,Brightening Facial Cleanser,Handcrafted wooden picture frame,49.14,eyeliner,12
+663,Nourishing Scalp Treatment,Handcrafted wooden picture frame,19.94,lipstick,4
+664,Glowing Beauty Elixir,Leather wallet with RFID protection,38.78,perfume,2
+665,Luminous Glow Serum,Vintage leather messenger bag,11.15,moisturizer,11
+666,Hydrating Lip Balm,Silk scarf with floral print,42.32,moisturizer,6
+667,Glowing Beauty Elixir,Leather wallet with RFID protection,86.74,eyeliner,5
+668,Radiant Skin Cream,Handcrafted wooden picture frame,87.54,lipstick,3
+669,Revitalizing Hair Mask,Leather wallet with RFID protection,90.65,eyeliner,7
+670,Silky Smooth Shampoo,Silk scarf with floral print,15.61,lipstick,5
+671,Hydrating Lip Balm,Stainless steel water bottle,60.41,shampoo,10
+672,Nourishing Scalp Treatment,Handcrafted wooden picture frame,91.42,shampoo,4
+673,Silky Smooth Shampoo,Natural soy wax candle,91.94,lipstick,11
+674,Hydrating Lip Balm,Natural soy wax candle,30.65,moisturizer,2
+675,Silky Smooth Shampoo,Soft cotton t-shirt,7.03,shampoo,10
+676,Brightening Facial Cleanser,Leather wallet with RFID protection,14.04,eyeliner,1
+677,Hydrating Lip Balm,Glass water pitcher with lid,17.16,eyeliner,2
+678,Luminous Glow Serum,Handcrafted wooden picture frame,86.49,shampoo,8
+679,Soothing Body Lotion,Leather wallet with RFID protection,32.12,moisturizer,2
+680,Soothing Body Lotion,Soft cotton t-shirt,92.03,moisturizer,9
+681,Radiant Skin Cream,Vintage leather messenger bag,29.3,eyeliner,11
+682,Hydrating Lip Balm,Organic cotton socks,46.09,shampoo,9
+683,Hydrating Lip Balm,Bluetooth wireless earbuds,99.26,moisturizer,8
+684,Glowing Beauty Elixir,Natural soy wax candle,20.55,perfume,8
+685,Silky Smooth Shampoo,Stainless steel water bottle,73.12,perfume,1
+686,Luminous Glow Serum,Organic cotton socks,62.9,perfume,3
+687,Revitalizing Hair Mask,Leather wallet with RFID protection,43.36,eyeliner,1
+688,Youthful Essence Eye Cream,Vintage leather messenger bag,48.04,moisturizer,3
+689,Hydrating Lip Balm,Bluetooth wireless earbuds,75.14,lipstick,7
+690,Soothing Body Lotion,Organic cotton socks,4.63,eyeliner,4
+691,Soothing Body Lotion,Glass water pitcher with lid,54.52,perfume,2
+692,Luminous Glow Serum,Natural soy wax candle,51.96,lipstick,7
+693,Brightening Facial Cleanser,Vintage leather messenger bag,36.91,eyeliner,10
+694,Hydrating Lip Balm,Bluetooth wireless earbuds,78.51,lipstick,9
+695,Soothing Body Lotion,Vintage leather messenger bag,56.91,moisturizer,4
+696,Luminous Glow Serum,Handcrafted wooden picture frame,21.49,perfume,1
+697,Nourishing Scalp Treatment,Silk scarf with floral print,67.4,moisturizer,3
+698,Revitalizing Hair Mask,Bluetooth wireless earbuds,27.2,moisturizer,11
+699,Nourishing Scalp Treatment,Natural soy wax candle,60.83,lipstick,8
+700,Soothing Body Lotion,Leather wallet with RFID protection,20.78,moisturizer,9
+701,Youthful Essence Eye Cream,Leather wallet with RFID protection,76.99,perfume,3
+702,Radiant Skin Cream,Organic cotton socks,56.64,eyeliner,10
+703,Soothing Body Lotion,Vintage leather messenger bag,37.76,shampoo,10
+704,Radiant Skin Cream,Natural soy wax candle,34.45,lipstick,3
+705,Soothing Body Lotion,Soft cotton t-shirt,78.88,eyeliner,8
+706,Revitalizing Hair Mask,Stainless steel water bottle,40.07,moisturizer,7
+707,Nourishing Scalp Treatment,Handcrafted wooden picture frame,42.73,lipstick,6
+708,Nourishing Scalp Treatment,Bluetooth wireless earbuds,91.39,shampoo,1
+709,Nourishing Scalp Treatment,Organic cotton socks,87.71,moisturizer,7
+710,Hydrating Lip Balm,Bluetooth wireless earbuds,93.76,shampoo,9
+711,Revitalizing Hair Mask,Soft cotton t-shirt,70.7,shampoo,8
+712,Brightening Facial Cleanser,Glass water pitcher with lid,17.54,moisturizer,8
+713,Luminous Glow Serum,Handcrafted wooden picture frame,47.51,moisturizer,8
+714,Silky Smooth Shampoo,Bluetooth wireless earbuds,58.69,lipstick,8
+715,Nourishing Scalp Treatment,Natural soy wax candle,72.88,moisturizer,10
+716,Revitalizing Hair Mask,Handcrafted wooden picture frame,52.14,eyeliner,6
+717,Silky Smooth Shampoo,Silk scarf with floral print,90.69,eyeliner,4
+718,Silky Smooth Shampoo,Silk scarf with floral print,11.27,shampoo,9
+719,Silky Smooth Shampoo,Vintage leather messenger bag,31.86,perfume,6
+720,Radiant Skin Cream,Leather wallet with RFID protection,33.71,shampoo,8
+721,Nourishing Scalp Treatment,Stainless steel water bottle,62.4,lipstick,12
+722,Silky Smooth Shampoo,Organic cotton socks,91.9,moisturizer,4
+723,Radiant Skin Cream,Stainless steel water bottle,75.73,moisturizer,6
+724,Silky Smooth Shampoo,Natural soy wax candle,3.06,moisturizer,1
+725,Nourishing Scalp Treatment,Vintage leather messenger bag,48.19,eyeliner,9
+726,Silky Smooth Shampoo,Natural soy wax candle,65.22,moisturizer,9
+727,Soothing Body Lotion,Bluetooth wireless earbuds,33.96,eyeliner,5
+728,Youthful Essence Eye Cream,Natural soy wax candle,0.41,lipstick,12
+729,Revitalizing Hair Mask,Organic cotton socks,0.35,perfume,4
+730,Nourishing Scalp Treatment,Vintage leather messenger bag,24.49,shampoo,6
+731,Soothing Body Lotion,Soft cotton t-shirt,62.55,eyeliner,6
+732,Nourishing Scalp Treatment,Stainless steel water bottle,26.94,shampoo,8
+733,Soothing Body Lotion,Natural soy wax candle,54.94,perfume,2
+734,Nourishing Scalp Treatment,Soft cotton t-shirt,77.41,eyeliner,9
+735,Revitalizing Hair Mask,Organic cotton socks,50.78,eyeliner,4
+736,Brightening Facial Cleanser,Silk scarf with floral print,59.13,eyeliner,5
+737,Radiant Skin Cream,Glass water pitcher with lid,30.27,lipstick,5
+738,Revitalizing Hair Mask,Organic cotton socks,93.6,perfume,10
+739,Youthful Essence Eye Cream,Handcrafted wooden picture frame,99.98,lipstick,2
+740,Glowing Beauty Elixir,Soft cotton t-shirt,31.23,lipstick,6
+741,Radiant Skin Cream,Vintage leather messenger bag,25.51,shampoo,3
+742,Luminous Glow Serum,Handcrafted wooden picture frame,33.61,eyeliner,11
+743,Radiant Skin Cream,Handcrafted wooden picture frame,77.09,shampoo,7
+744,Brightening Facial Cleanser,Vintage leather messenger bag,11.46,lipstick,10
+745,Brightening Facial Cleanser,Vintage leather messenger bag,49.06,perfume,2
+746,Glowing Beauty Elixir,Natural soy wax candle,7.86,lipstick,11
+747,Soothing Body Lotion,Organic cotton socks,45.18,shampoo,1
+748,Brightening Facial Cleanser,Soft cotton t-shirt,13.02,lipstick,6
+749,Hydrating Lip Balm,Leather wallet with RFID protection,47.18,shampoo,9
+750,Brightening Facial Cleanser,Handcrafted wooden picture frame,8.04,perfume,12
+751,Luminous Glow Serum,Handcrafted wooden picture frame,84.33,moisturizer,11
+752,Radiant Skin Cream,Leather wallet with RFID protection,72.63,perfume,3
+753,Brightening Facial Cleanser,Handcrafted wooden picture frame,45.97,perfume,8
+754,Brightening Facial Cleanser,Natural soy wax candle,90.82,shampoo,12
+755,Soothing Body Lotion,Natural soy wax candle,1.95,shampoo,9
+756,Soothing Body Lotion,Leather wallet with RFID protection,96.4,eyeliner,5
+757,Hydrating Lip Balm,Soft cotton t-shirt,49.17,shampoo,12
+758,Hydrating Lip Balm,Glass water pitcher with lid,63.93,lipstick,11
+759,Glowing Beauty Elixir,Natural soy wax candle,11.22,eyeliner,3
+760,Hydrating Lip Balm,Organic cotton socks,58.45,eyeliner,9
+761,Luminous Glow Serum,Silk scarf with floral print,32.22,shampoo,9
+762,Radiant Skin Cream,Vintage leather messenger bag,21.01,shampoo,6
+763,Radiant Skin Cream,Organic cotton socks,48.01,eyeliner,8
+764,Soothing Body Lotion,Natural soy wax candle,57.03,shampoo,2
+765,Luminous Glow Serum,Handcrafted wooden picture frame,46.95,perfume,7
+766,Revitalizing Hair Mask,Glass water pitcher with lid,21.19,shampoo,11
+767,Youthful Essence Eye Cream,Silk scarf with floral print,23.25,eyeliner,8
+768,Youthful Essence Eye Cream,Soft cotton t-shirt,27.83,perfume,1
+769,Radiant Skin Cream,Natural soy wax candle,21.88,eyeliner,9
+770,Brightening Facial Cleanser,Bluetooth wireless earbuds,62.18,perfume,6
+771,Soothing Body Lotion,Bluetooth wireless earbuds,77.19,lipstick,7
+772,Soothing Body Lotion,Bluetooth wireless earbuds,36.05,shampoo,7
+773,Youthful Essence Eye Cream,Silk scarf with floral print,74.39,shampoo,5
+774,Brightening Facial Cleanser,Natural soy wax candle,25.97,moisturizer,5
+775,Revitalizing Hair Mask,Stainless steel water bottle,35.56,shampoo,6
+776,Glowing Beauty Elixir,Glass water pitcher with lid,86.15,lipstick,4
+777,Brightening Facial Cleanser,Vintage leather messenger bag,52.74,eyeliner,5
+778,Brightening Facial Cleanser,Stainless steel water bottle,80.65,lipstick,7
+779,Youthful Essence Eye Cream,Vintage leather messenger bag,57.77,moisturizer,7
+780,Luminous Glow Serum,Silk scarf with floral print,61.5,moisturizer,1
+781,Brightening Facial Cleanser,Vintage leather messenger bag,30.14,shampoo,9
+782,Hydrating Lip Balm,Silk scarf with floral print,50.97,perfume,12
+783,Youthful Essence Eye Cream,Leather wallet with RFID protection,48.98,lipstick,1
+784,Hydrating Lip Balm,Silk scarf with floral print,52.83,shampoo,2
+785,Nourishing Scalp Treatment,Bluetooth wireless earbuds,96.74,eyeliner,8
+786,Youthful Essence Eye Cream,Organic cotton socks,41.79,shampoo,4
+787,Revitalizing Hair Mask,Leather wallet with RFID protection,1.74,lipstick,12
+788,Luminous Glow Serum,Handcrafted wooden picture frame,18.8,lipstick,4
+789,Revitalizing Hair Mask,Glass water pitcher with lid,83.69,lipstick,8
+790,Revitalizing Hair Mask,Leather wallet with RFID protection,17.45,eyeliner,9
+791,Revitalizing Hair Mask,Handcrafted wooden picture frame,58.55,lipstick,7
+792,Silky Smooth Shampoo,Organic cotton socks,35.94,shampoo,10
+793,Youthful Essence Eye Cream,Organic cotton socks,77.0,shampoo,10
+794,Soothing Body Lotion,Organic cotton socks,27.87,eyeliner,3
+795,Radiant Skin Cream,Stainless steel water bottle,90.6,perfume,8
+796,Glowing Beauty Elixir,Vintage leather messenger bag,28.01,shampoo,2
+797,Hydrating Lip Balm,Leather wallet with RFID protection,56.82,shampoo,6
+798,Glowing Beauty Elixir,Natural soy wax candle,61.52,perfume,11
+799,Radiant Skin Cream,Glass water pitcher with lid,65.89,lipstick,2
+800,Silky Smooth Shampoo,Vintage leather messenger bag,46.48,shampoo,9
+801,Luminous Glow Serum,Bluetooth wireless earbuds,48.98,perfume,11
+802,Nourishing Scalp Treatment,Handcrafted wooden picture frame,15.94,perfume,10
+803,Silky Smooth Shampoo,Soft cotton t-shirt,52.44,shampoo,5
+804,Revitalizing Hair Mask,Glass water pitcher with lid,20.52,moisturizer,1
+805,Nourishing Scalp Treatment,Organic cotton socks,66.04,shampoo,6
+806,Silky Smooth Shampoo,Vintage leather messenger bag,63.31,moisturizer,9
+807,Radiant Skin Cream,Natural soy wax candle,14.54,perfume,10
+808,Soothing Body Lotion,Glass water pitcher with lid,12.89,perfume,3
+809,Radiant Skin Cream,Leather wallet with RFID protection,80.07,perfume,11
+810,Silky Smooth Shampoo,Vintage leather messenger bag,82.75,eyeliner,8
+811,Revitalizing Hair Mask,Glass water pitcher with lid,13.39,moisturizer,4
+812,Glowing Beauty Elixir,Vintage leather messenger bag,19.45,lipstick,11
+813,Radiant Skin Cream,Natural soy wax candle,74.06,moisturizer,11
+814,Luminous Glow Serum,Handcrafted wooden picture frame,12.87,moisturizer,1
+815,Youthful Essence Eye Cream,Leather wallet with RFID protection,69.39,moisturizer,3
+816,Soothing Body Lotion,Silk scarf with floral print,95.95,shampoo,7
+817,Hydrating Lip Balm,Bluetooth wireless earbuds,21.6,moisturizer,5
+818,Revitalizing Hair Mask,Bluetooth wireless earbuds,29.75,moisturizer,3
+819,Luminous Glow Serum,Natural soy wax candle,33.03,eyeliner,2
+820,Luminous Glow Serum,Leather wallet with RFID protection,0.46,moisturizer,11
+821,Radiant Skin Cream,Vintage leather messenger bag,73.64,moisturizer,12
+822,Radiant Skin Cream,Vintage leather messenger bag,92.08,shampoo,6
+823,Nourishing Scalp Treatment,Glass water pitcher with lid,8.05,perfume,4
+824,Radiant Skin Cream,Glass water pitcher with lid,19.77,lipstick,6
+825,Youthful Essence Eye Cream,Natural soy wax candle,60.41,eyeliner,2
+826,Youthful Essence Eye Cream,Silk scarf with floral print,27.22,shampoo,5
+827,Radiant Skin Cream,Silk scarf with floral print,18.77,lipstick,12
+828,Silky Smooth Shampoo,Organic cotton socks,23.69,eyeliner,1
+829,Silky Smooth Shampoo,Bluetooth wireless earbuds,22.24,perfume,6
+830,Radiant Skin Cream,Leather wallet with RFID protection,13.94,moisturizer,6
+831,Nourishing Scalp Treatment,Leather wallet with RFID protection,51.29,lipstick,11
+832,Nourishing Scalp Treatment,Natural soy wax candle,49.18,perfume,6
+833,Hydrating Lip Balm,Vintage leather messenger bag,79.14,shampoo,12
+834,Brightening Facial Cleanser,Handcrafted wooden picture frame,99.03,lipstick,4
+835,Nourishing Scalp Treatment,Leather wallet with RFID protection,39.05,shampoo,9
+836,Nourishing Scalp Treatment,Soft cotton t-shirt,49.5,eyeliner,8
+837,Luminous Glow Serum,Handcrafted wooden picture frame,52.48,perfume,8
+838,Silky Smooth Shampoo,Leather wallet with RFID protection,98.31,perfume,9
+839,Silky Smooth Shampoo,Organic cotton socks,57.07,shampoo,7
+840,Soothing Body Lotion,Silk scarf with floral print,53.69,moisturizer,7
+841,Soothing Body Lotion,Handcrafted wooden picture frame,26.77,moisturizer,3
+842,Nourishing Scalp Treatment,Soft cotton t-shirt,30.87,perfume,2
+843,Luminous Glow Serum,Silk scarf with floral print,32.35,shampoo,6
+844,Soothing Body Lotion,Organic cotton socks,68.26,lipstick,2
+845,Soothing Body Lotion,Organic cotton socks,16.88,shampoo,8
+846,Soothing Body Lotion,Organic cotton socks,76.79,lipstick,5
+847,Radiant Skin Cream,Organic cotton socks,42.05,eyeliner,9
+848,Silky Smooth Shampoo,Silk scarf with floral print,86.26,perfume,6
+849,Nourishing Scalp Treatment,Handcrafted wooden picture frame,93.46,perfume,8
+850,Hydrating Lip Balm,Soft cotton t-shirt,62.87,moisturizer,3
+851,Brightening Facial Cleanser,Organic cotton socks,53.83,moisturizer,7
+852,Glowing Beauty Elixir,Bluetooth wireless earbuds,43.52,perfume,7
+853,Brightening Facial Cleanser,Organic cotton socks,29.01,shampoo,7
+854,Youthful Essence Eye Cream,Silk scarf with floral print,36.68,lipstick,4
+855,Radiant Skin Cream,Glass water pitcher with lid,96.83,perfume,2
+856,Luminous Glow Serum,Handcrafted wooden picture frame,55.64,moisturizer,7
+857,Silky Smooth Shampoo,Bluetooth wireless earbuds,19.74,lipstick,8
+858,Hydrating Lip Balm,Vintage leather messenger bag,34.82,moisturizer,8
+859,Soothing Body Lotion,Stainless steel water bottle,33.07,moisturizer,1
+860,Luminous Glow Serum,Organic cotton socks,24.34,moisturizer,3
+861,Brightening Facial Cleanser,Stainless steel water bottle,85.41,shampoo,9
+862,Nourishing Scalp Treatment,Silk scarf with floral print,25.04,moisturizer,12
+863,Luminous Glow Serum,Vintage leather messenger bag,43.11,moisturizer,1
+864,Radiant Skin Cream,Silk scarf with floral print,23.69,moisturizer,4
+865,Luminous Glow Serum,Organic cotton socks,91.05,lipstick,9
+866,Hydrating Lip Balm,Vintage leather messenger bag,60.01,shampoo,7
+867,Brightening Facial Cleanser,Organic cotton socks,53.45,eyeliner,12
+868,Luminous Glow Serum,Glass water pitcher with lid,22.84,lipstick,1
+869,Nourishing Scalp Treatment,Glass water pitcher with lid,15.7,shampoo,5
+870,Hydrating Lip Balm,Vintage leather messenger bag,70.17,perfume,11
+871,Nourishing Scalp Treatment,Vintage leather messenger bag,75.85,shampoo,10
+872,Revitalizing Hair Mask,Bluetooth wireless earbuds,61.76,lipstick,6
+873,Brightening Facial Cleanser,Silk scarf with floral print,76.81,eyeliner,6
+874,Silky Smooth Shampoo,Soft cotton t-shirt,88.28,perfume,5
+875,Silky Smooth Shampoo,Natural soy wax candle,56.4,perfume,2
+876,Glowing Beauty Elixir,Vintage leather messenger bag,72.53,lipstick,8
+877,Soothing Body Lotion,Organic cotton socks,25.02,perfume,12
+878,Nourishing Scalp Treatment,Vintage leather messenger bag,83.08,eyeliner,5
+879,Brightening Facial Cleanser,Leather wallet with RFID protection,78.91,lipstick,1
+880,Revitalizing Hair Mask,Bluetooth wireless earbuds,14.26,perfume,8
+881,Youthful Essence Eye Cream,Leather wallet with RFID protection,34.31,moisturizer,10
+882,Glowing Beauty Elixir,Silk scarf with floral print,12.63,perfume,3
+883,Brightening Facial Cleanser,Bluetooth wireless earbuds,43.37,shampoo,5
+884,Nourishing Scalp Treatment,Leather wallet with RFID protection,16.93,moisturizer,3
+885,Soothing Body Lotion,Vintage leather messenger bag,20.57,shampoo,5
+886,Hydrating Lip Balm,Handcrafted wooden picture frame,72.93,shampoo,10
+887,Soothing Body Lotion,Glass water pitcher with lid,7.63,shampoo,2
+888,Luminous Glow Serum,Soft cotton t-shirt,5.3,eyeliner,3
+889,Youthful Essence Eye Cream,Leather wallet with RFID protection,37.33,lipstick,12
+890,Brightening Facial Cleanser,Organic cotton socks,70.12,moisturizer,3
+891,Hydrating Lip Balm,Vintage leather messenger bag,19.99,perfume,4
+892,Luminous Glow Serum,Soft cotton t-shirt,5.89,perfume,10
+893,Hydrating Lip Balm,Bluetooth wireless earbuds,9.75,eyeliner,5
+894,Nourishing Scalp Treatment,Organic cotton socks,54.47,perfume,9
+895,Brightening Facial Cleanser,Handcrafted wooden picture frame,99.5,lipstick,1
+896,Silky Smooth Shampoo,Soft cotton t-shirt,20.84,eyeliner,8
+897,Hydrating Lip Balm,Bluetooth wireless earbuds,63.78,shampoo,7
+898,Revitalizing Hair Mask,Stainless steel water bottle,15.69,eyeliner,9
+899,Youthful Essence Eye Cream,Handcrafted wooden picture frame,37.71,shampoo,12
+900,Silky Smooth Shampoo,Vintage leather messenger bag,58.31,lipstick,4
+901,Hydrating Lip Balm,Leather wallet with RFID protection,56.51,perfume,8
+902,Silky Smooth Shampoo,Stainless steel water bottle,88.98,eyeliner,1
+903,Brightening Facial Cleanser,Bluetooth wireless earbuds,17.95,eyeliner,11
+904,Nourishing Scalp Treatment,Natural soy wax candle,11.59,moisturizer,7
+905,Radiant Skin Cream,Bluetooth wireless earbuds,82.52,moisturizer,1
+906,Youthful Essence Eye Cream,Soft cotton t-shirt,90.69,shampoo,2
+907,Nourishing Scalp Treatment,Bluetooth wireless earbuds,40.36,perfume,4
+908,Nourishing Scalp Treatment,Stainless steel water bottle,75.71,perfume,6
+909,Luminous Glow Serum,Natural soy wax candle,97.21,lipstick,2
+910,Radiant Skin Cream,Bluetooth wireless earbuds,91.47,moisturizer,1
+911,Youthful Essence Eye Cream,Stainless steel water bottle,16.08,lipstick,6
+912,Luminous Glow Serum,Stainless steel water bottle,86.76,lipstick,8
+913,Glowing Beauty Elixir,Vintage leather messenger bag,5.71,lipstick,2
+914,Soothing Body Lotion,Stainless steel water bottle,3.58,eyeliner,8
+915,Hydrating Lip Balm,Bluetooth wireless earbuds,26.91,eyeliner,3
+916,Soothing Body Lotion,Handcrafted wooden picture frame,70.18,lipstick,5
+917,Revitalizing Hair Mask,Handcrafted wooden picture frame,75.23,perfume,4
+918,Youthful Essence Eye Cream,Handcrafted wooden picture frame,21.32,lipstick,9
+919,Nourishing Scalp Treatment,Stainless steel water bottle,75.05,shampoo,6
+920,Brightening Facial Cleanser,Silk scarf with floral print,81.46,lipstick,5
+921,Luminous Glow Serum,Leather wallet with RFID protection,54.9,moisturizer,10
+922,Youthful Essence Eye Cream,Handcrafted wooden picture frame,57.13,shampoo,9
+923,Silky Smooth Shampoo,Organic cotton socks,81.64,moisturizer,11
+924,Glowing Beauty Elixir,Vintage leather messenger bag,93.72,perfume,6
+925,Youthful Essence Eye Cream,Bluetooth wireless earbuds,73.29,eyeliner,4
+926,Luminous Glow Serum,Leather wallet with RFID protection,24.22,moisturizer,6
+927,Glowing Beauty Elixir,Soft cotton t-shirt,11.24,eyeliner,12
+928,Silky Smooth Shampoo,Leather wallet with RFID protection,67.05,moisturizer,10
+929,Hydrating Lip Balm,Vintage leather messenger bag,4.65,perfume,5
+930,Glowing Beauty Elixir,Glass water pitcher with lid,98.5,eyeliner,6
+931,Glowing Beauty Elixir,Silk scarf with floral print,33.42,perfume,11
+932,Glowing Beauty Elixir,Handcrafted wooden picture frame,4.42,perfume,2
+933,Hydrating Lip Balm,Leather wallet with RFID protection,11.76,moisturizer,3
+934,Youthful Essence Eye Cream,Natural soy wax candle,60.65,moisturizer,1
+935,Soothing Body Lotion,Natural soy wax candle,10.24,perfume,2
+936,Youthful Essence Eye Cream,Soft cotton t-shirt,90.91,lipstick,8
+937,Youthful Essence Eye Cream,Stainless steel water bottle,81.6,moisturizer,7
+938,Youthful Essence Eye Cream,Stainless steel water bottle,54.6,eyeliner,5
+939,Brightening Facial Cleanser,Organic cotton socks,50.3,lipstick,12
+940,Revitalizing Hair Mask,Soft cotton t-shirt,10.47,shampoo,11
+941,Luminous Glow Serum,Leather wallet with RFID protection,0.88,perfume,7
+942,Glowing Beauty Elixir,Handcrafted wooden picture frame,55.23,perfume,3
+943,Soothing Body Lotion,Natural soy wax candle,15.73,moisturizer,11
+944,Hydrating Lip Balm,Natural soy wax candle,60.31,lipstick,4
+945,Glowing Beauty Elixir,Glass water pitcher with lid,0.48,moisturizer,1
+946,Revitalizing Hair Mask,Natural soy wax candle,17.43,eyeliner,9
+947,Brightening Facial Cleanser,Natural soy wax candle,8.97,lipstick,4
+948,Soothing Body Lotion,Stainless steel water bottle,34.83,perfume,6
+949,Soothing Body Lotion,Handcrafted wooden picture frame,18.62,perfume,8
+950,Glowing Beauty Elixir,Stainless steel water bottle,57.2,shampoo,9
+951,Nourishing Scalp Treatment,Handcrafted wooden picture frame,36.54,shampoo,8
+952,Silky Smooth Shampoo,Organic cotton socks,79.67,eyeliner,6
+953,Silky Smooth Shampoo,Glass water pitcher with lid,62.77,eyeliner,7
+954,Revitalizing Hair Mask,Silk scarf with floral print,96.16,eyeliner,12
+955,Youthful Essence Eye Cream,Organic cotton socks,42.13,shampoo,8
+956,Youthful Essence Eye Cream,Natural soy wax candle,48.65,moisturizer,12
+957,Nourishing Scalp Treatment,Organic cotton socks,61.98,perfume,8
+958,Soothing Body Lotion,Organic cotton socks,63.12,moisturizer,12
+959,Brightening Facial Cleanser,Natural soy wax candle,39.69,perfume,9
+960,Glowing Beauty Elixir,Stainless steel water bottle,48.15,eyeliner,1
+961,Soothing Body Lotion,Glass water pitcher with lid,82.66,moisturizer,12
+962,Soothing Body Lotion,Leather wallet with RFID protection,54.46,perfume,1
+963,Youthful Essence Eye Cream,Natural soy wax candle,7.75,shampoo,11
+964,Luminous Glow Serum,Soft cotton t-shirt,49.09,lipstick,6
+965,Luminous Glow Serum,Stainless steel water bottle,95.43,eyeliner,10
+966,Hydrating Lip Balm,Bluetooth wireless earbuds,8.05,moisturizer,4
+967,Silky Smooth Shampoo,Glass water pitcher with lid,86.48,moisturizer,10
+968,Soothing Body Lotion,Vintage leather messenger bag,55.8,perfume,7
+969,Soothing Body Lotion,Leather wallet with RFID protection,29.81,shampoo,8
+970,Revitalizing Hair Mask,Leather wallet with RFID protection,26.24,shampoo,12
+971,Hydrating Lip Balm,Soft cotton t-shirt,56.7,perfume,1
+972,Luminous Glow Serum,Silk scarf with floral print,56.65,moisturizer,7
+973,Youthful Essence Eye Cream,Vintage leather messenger bag,5.26,perfume,7
+974,Revitalizing Hair Mask,Stainless steel water bottle,10.74,shampoo,9
+975,Silky Smooth Shampoo,Stainless steel water bottle,98.37,moisturizer,2
+976,Radiant Skin Cream,Vintage leather messenger bag,88.75,shampoo,11
+977,Hydrating Lip Balm,Glass water pitcher with lid,96.22,moisturizer,7
+978,Radiant Skin Cream,Leather wallet with RFID protection,53.76,moisturizer,6
+979,Nourishing Scalp Treatment,Glass water pitcher with lid,40.97,moisturizer,7
+980,Silky Smooth Shampoo,Bluetooth wireless earbuds,4.17,shampoo,3
+981,Nourishing Scalp Treatment,Silk scarf with floral print,71.97,lipstick,2
+982,Brightening Facial Cleanser,Glass water pitcher with lid,7.73,shampoo,11
+983,Hydrating Lip Balm,Stainless steel water bottle,17.04,perfume,12
+984,Luminous Glow Serum,Stainless steel water bottle,21.63,shampoo,11
+985,Radiant Skin Cream,Natural soy wax candle,40.7,moisturizer,6
+986,Soothing Body Lotion,Bluetooth wireless earbuds,76.73,moisturizer,7
+987,Revitalizing Hair Mask,Leather wallet with RFID protection,13.73,perfume,1
+988,Soothing Body Lotion,Natural soy wax candle,15.59,moisturizer,9
+989,Nourishing Scalp Treatment,Natural soy wax candle,16.05,shampoo,7
+990,Revitalizing Hair Mask,Vintage leather messenger bag,96.53,moisturizer,7
+991,Silky Smooth Shampoo,Soft cotton t-shirt,60.45,lipstick,10
+992,Silky Smooth Shampoo,Leather wallet with RFID protection,70.69,moisturizer,8
+993,Glowing Beauty Elixir,Soft cotton t-shirt,78.62,perfume,1
+994,Luminous Glow Serum,Vintage leather messenger bag,49.99,perfume,5
+995,Soothing Body Lotion,Natural soy wax candle,48.65,perfume,7
+996,Revitalizing Hair Mask,Soft cotton t-shirt,44.32,moisturizer,11
+997,Silky Smooth Shampoo,Glass water pitcher with lid,94.46,perfume,5
+998,Silky Smooth Shampoo,Bluetooth wireless earbuds,36.08,eyeliner,5
+999,Nourishing Scalp Treatment,Silk scarf with floral print,30.98,eyeliner,3
+1000,Glowing Beauty Elixir,Organic cotton socks,23.43,lipstick,6

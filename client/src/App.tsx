@@ -1,22 +1,24 @@
 import React from 'react';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import logo from './logo.svg';
-import Header from './components/Header';
-import Welcome from './pages/Welcome';
-import Hair from './pages/Hair';
-import './App.css';
+import HeaderComponent from './components/every_page_components/HeaderComponent';
+import FooterComponent from './components/every_page_components/FooterComponent';
+import WelcomePage from './pages/WelcomePage';
+import HairPage from './pages/HairPage';
+import MenPage from './pages/MenPage';
 
 function App() {
   return (
-    <div className="App">
+    <div className="font-mont font-light">
       <BrowserRouter>
-        <Header />
+        <HeaderComponent />
         <Routes>
-          <Route path='/' element={<Welcome />}/>
-          <Route path='/hair' element={<Hair />}/>
-          <Route />
+          <Route path='/' element={<WelcomePage />}/>
+          <Route path='/hair' element={<HairPage />}/>
+          <Route path='/men' element={<MenPage />}/>
           <Route />
         </Routes>  
+        <FooterComponent />
       </BrowserRouter>
     </div>
   );
