@@ -1,25 +1,18 @@
 import React from 'react'
 import ProductComponent from '../components/partial_components/ProductComponent'
+import { Product } from '../interfaces/interface'
 
-const MultiProductPage = () => {
+interface MultiProductPageProps {
+  productsData: Array<Product>
+}
+
+const MultiProductPage = ({ productsData }: MultiProductPageProps) => {
   return (
     <main>
       <div className='flex flex-wrap gap-3'>
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />     
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
-        <ProductComponent />
+        {productsData.map((item, index) => (
+          <ProductComponent key={index} singleProductData={item}/>
+        ))}
       </div>
     </main>
   )

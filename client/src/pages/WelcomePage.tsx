@@ -10,7 +10,6 @@ function Welcome() {
         <div className="flex flex-row mx-3 sm:mx-28 lg:mx-56 space-x-2 h-[50vh]">
           <Link to={"/men"} className="bg-blue-500 flex-1 transition-all duration-300 hover:flex-3 hover:bg-blue-300 rounded-xl text-center flex justify-center items-center text-sm md:text-base lg:text-xl">MEN</Link>
           <Link to={"/women"} className="bg-blue-500 flex-1 transition-all duration-300 hover:flex-3 hover:bg-blue-300 rounded-xl text-center flex justify-center items-center text-sm md:text-base lg:text-xl">WOMEN</Link>
-          <Link to={"/children"} className="bg-blue-500 flex-1 transition-all duration-300 hover:flex-3 hover:bg-blue-300 rounded-xl text-center flex justify-center items-center text-sm md:text-base lg:text-xl">CHILDREN</Link>
         </div>
     </main>
   )

@@ -10,6 +10,7 @@ import (
 
 	"api/pkg/models/mysql"
 
+	"github.com/joho/godotenv"
 	_ "github.com/go-sql-driver/mysql"
 )
 
@@ -19,6 +20,12 @@ type application struct {
 }
 
 func main() {
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env file")
+	}
+	
+
 	dsn := flag.String("dsn", "web:123456@/beautysupplydb", "Data source name: allows for the connection with a MySQL data center")
 
 	flag.Parse()
