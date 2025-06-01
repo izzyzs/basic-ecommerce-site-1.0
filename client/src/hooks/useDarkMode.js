@@ -1,24 +1,24 @@
 import { useEffect, useState } from "react";
 
-const useDarkMode = () => {
+export const useDarkMode = () => {
     const [theme, setTheme] = useState(() => {
-        const savedTheme = localStorage.getItem('theme');
-        return savedTheme ? savedTheme : 'light';
+        const savedTheme = localStorage.getItem("theme");
+        return savedTheme ? savedTheme : "light";
     });
 
     useEffect(() => {
-        if (theme === 'dark') {
-            document.documentElement.classList.add('dark');
+        if (theme === "dark") {
+            document.documentElement.classList.add("dark");
         } else {
-            document.documentElement.classList.remove('dark');
+            document.documentElement.classList.remove("dark");
         }
 
-        localStorage.setItem('theme', theme);
+        localStorage.setItem("theme", theme);
     }, [theme]);
 
     const toggleTheme = () => {
-        setTheme(theme === 'dark' ? 'light' : 'dark');
-    }
+        setTheme(theme === "dark" ? "light" : "dark");
+    };
 
-    return [theme, toggleTheme]
-}
+    return [theme, toggleTheme];
+};

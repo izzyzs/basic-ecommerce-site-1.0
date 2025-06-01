@@ -11,9 +11,10 @@ import ProductPage from './pages/ProductPage';
 import AuthForm from './pages/AuthForm';
 import ShoppingCart from './pages/ShoppingCart';
 import { CartProvider } from './contexts/CartContext';
-
+import { AuthProvider } from './contexts/AuthContext';
 function App() {
   return (
+    <AuthProvider>
     <CartProvider>
       <div className="font-mont font-light">
       <BrowserRouter>
@@ -33,6 +34,7 @@ function App() {
       </BrowserRouter>
       </div>
     </CartProvider>
+    </AuthProvider>
   );
 }
 
